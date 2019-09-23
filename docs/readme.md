@@ -6,4 +6,4 @@ Hoewel een ondoordachte actie heel zware gevolgen kan hebben, blijft *security a
 
 Met het THUMFI-project willen wij een gepersonaliseerde, interactieve beveiligingstraining uitwerken aan de hand van een app met scenario’s waarbij de reacties van de gebruiker een concrete aanleiding zijn voor toegepaste feedback. Door af en toe scenario’s aan te bieden gespreid over een periode van een aantal weken, willen wij met een lage intensiteit, in een langdurige training voorzien om maximaal te streven naar een duurzame gedragsverandering bij de deelnemers.
 
-Het THUMFI project is een Praktijkgericht Wetenschappelijk Onderzoek (PWO) project van de [VIVES hogeschool](https://www.vives.be). Het is gestart in september 2019 en loopt tot augustus 2021. 
+Het THUMFI project is een Praktijkgericht Wetenschappelijk Onderzoek (PWO) project van de [VIVES hogeschool](https://www.vives.be). Het is gestart begin september 2019 en loopt tot eind augustus 2021. 
