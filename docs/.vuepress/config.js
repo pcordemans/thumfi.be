@@ -5,7 +5,7 @@ module.exports = {
         nav: [
           { text: 'Home', link: '/' },
           { text: 'Blog', link: '/blog.md' },
-          { text: 'VIVES', link: 'https://www.vives.be' },
+          { text: 'VIVES', link: 'https://www.vives.be/nl/onderzoek/project/human-firewall-cybersecurity' },
         ],
         sidebarDepth: 2,
         

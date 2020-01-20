@@ -34,7 +34,7 @@ Daarna kunnen we de scenario’s bijsturen en overgaan tot het daadwerkelijk mak
 ### 12/09/2019
 
 *Cybersecurity is the biggest threat to the world economy CEOs say.* 
-Daarom hebben de expertisecentra Business Management en Smart Technologies van [Vives](https://www.vives.be) een project opgestart rond ‘Training the Human Firewall’, kortweg THUMFI.
+Daarom hebben de expertisecentra Business Management en Smart Technologies van [Vives](https://www.vives.be/nl/onderzoek/project/human-firewall-cybersecurity) een project opgestart rond ‘Training the Human Firewall’, kortweg THUMFI.
 Met als motto ‘Het echte probleem van cybersecurity zit tussen de bureaustoel en het toetsenbord’ ontwikkelen we een App om de young potentials bewuster te leren omgaan met communicatie in a connected world.
 Bij de start van het academiejaar kwam voor het eerst de stuurgroep samen om te discussiëren rond dit project. 
 We kijken uit naar een boeiende samenwerking met deze interessante partners!
