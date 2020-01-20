@@ -4,6 +4,7 @@
   "description": "Training the Human Firewall project website",
   "main": "README.md",
   "scripts": {
+    "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,13 +13,13 @@
     "url": "git+https://github.com/pcordemans/thumfi.be"
   },
   "author": "Piet Cordemans <piet.cordemans@vives.be>",
-  "license": "Apache-2.0",
+  "license": "Creative Commons Attribution-ShareAlike 4.0 International License",
   "bugs": {
     "url": "https://github.com/pcordemans/thumfi.be/issues"
   },
   "homepage": "https://github.com/pcordemans/thumfi.be#readme",
   "dependencies": {
-    "vuepress": "^1.1.0",
-    "webpack-serve": "^3.2.0"
+    "vuepress": "^1.2.0",
+    "vuepress-plugin-zooming": "^1.1.7"
   }
 }
