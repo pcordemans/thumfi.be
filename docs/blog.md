@@ -1,5 +1,31 @@
 # THUMFI blog
 
+## Computerveiligheidsdag
+
+### 30/11/2020
+
+![THUMFI app](./assets/thumfiapp.jpg)
+
+Ondertussen zitten we alweer een maand volledig thuis in de ‘tweede golf’ van online werken, les volgen, shoppen enz. …  Nu we weer uren achter de laptop of smartphone doorbrengen, is het zeker nodig alert te blijven.
+
+Jammer genoeg zitten ook nu de cybercriminelen niet stil. Vooral in momenten van stress of onoplettendheid slagen zij erin informatie los te krijgen van hun slachtoffers.
+
+Enkele tips om veilig online te gaan:
+
+* Geef nooit persoonlijke informatie of gegevens over je bankkaart of bankrekening als iemand erom vraagt via e-mail, Whatsapp, sms … whatever!
+* Zorg dat je besturingssysteem en software up-to-date zijn
+* Gebruik een verschillend wachtwoord voor elke account.
+* Maak regelmatig een back-up van je bestanden.
+* En vooral: gebruik je gezond verstand: als het te mooi is om waar te zijn, is het meestal niet waar!
+
+Studenten Office Management van Vives Kortrijk én Brugge hebben een ‘instaptoets’ afgelegd over Cybersecurity. Via twee verschillende paden leren ze bij over het topic. 
+
+In Kortrijk kregen ze les op de ‘klassieke manier’. Docent Tom Cordemans bracht er een interessant lezing met voorbeelden uit de praktijk. 
+
+De studenten van Vives Brugge experimenteren met gamification: zij krijgen opdrachten en challenges in verband met Cybersecurity via de Thumfi-app. 
+
+Benieuwd wie het best zal scoren bij de eindmeting eind december ….
+
 ## Corona
 
 ### 12/05/2020
