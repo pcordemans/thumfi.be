@@ -1,5 +1,20 @@
 # THUMFI blog
 
+## Eerste analyses
+
+### 19/02/2021
+
+![Using the app in class.](./assets/appinclass.jpg)
+
+Ter voorbereiding van de tweede testfase hebben wij de resultaten van de eerste testfase geanalyseerd.
+
+Enkele bevindingen:
+
+1. 42 respondenten is zeer weinig om statistisch relevante conclusies te trekken wat betreft hun spelgedrag en vooruitgang. In de tweede fase schalen wij de grootte van de groepen op. Aangezien de testen online georganiseerd moeten worden, blijkt het niet eenvoudig om studenten te motiveren deze volledig in te vullen.
+1. Studenten die wekelijks door hun docent van een IT-vak herinnerd worden aan de app, gaan meer intens de app gebruiken dan studenten die volledig vrij gelaten worden. We gaan die groep nog intenser coachen.
+
+Binnenkort gaat dus de tweede testfase van start met meer dan dubbel zoveel scenario's en een nieuwe spelmodus. Om het brede publiek ook eens de mogelijkheid te geven een beta-versie van de app te leren kennen, zullen wij deze ook voor iedereen beschikbaar stellen. Meer info volgt binnenkort…
+
 ## Computerveiligheidsdag
 
 ### 30/11/2020
