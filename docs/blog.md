@@ -1,5 +1,13 @@
 # THUMFI blog
 
+## Einde van het PWO project
+
+### 31/08/2021
+
+Na twee jaar is het PWO project afgerond. Dit is echter niet het einde voor THUMFI. Op 02/09/2021 vindt het THUMFI launch event plaats. Tijdens dit event doen wij uit de doeken welke resultaten we hebben behaald en welke plannen wij nog hebben rond cybersecurity awareness training. 
+
+![THUMFI folder](./assets/thumfi-folder.png)
+
 ## Publieke beta
 
 ### 21/04/2021
