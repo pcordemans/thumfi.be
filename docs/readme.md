@@ -1,17 +1,24 @@
 ![THUMFI logo](./assets/thumfi.png)
 
-Informatieverwerkers en administratief personeel zijn een heel interessant doelwit op IT-vlak voor *social engineering*, i.e. mensen manipuleren zodat ze een actie ondernemen waardoor de aanvaller toegang krijgt tot bepaalde gegevens of een computersysteem. Daarnaast kan onzorgvuldig gebruik van IT leiden tot ongewild verspreiden of verliezen van gegevens. 
+# Training the Human Firewall
 
-Hoewel een ondoordachte actie heel zware gevolgen kan hebben, blijft *security awareness training* van niet-technisch onderlegde personen beperkt tot informatie verstrekken en passief bewustmaken.
+## Cybersecurity awareness
 
-Met het Training the Human Firewall project (THUMFI) willen wij een gepersonaliseerde, interactieve beveiligingstraining uitwerken aan de hand van een app met scenario’s waarbij de reacties van de gebruiker een concrete aanleiding zijn voor toegepaste feedback. Door af en toe scenario’s aan te bieden gespreid over een periode van een aantal weken, willen wij met een lage intensiteit, in een langdurige training voorzien om maximaal te streven naar een duurzame gedragsverandering bij de deelnemers.
+Social engineering, onzorgvuldig omgaan  met data, phishing, en onveilige netwerken vormen een  reële  bedreiging  voor  de  werking  van organisaties.  Een opleiding rond cybersecurity voor  alle  medewerkers  vormt  een  belangrijke schakel  in  een  sterk  beveiligingsbeleid.
 
-Het THUMFI project is een Praktijkgericht Wetenschappelijk Onderzoek (PWO) project van de [VIVES hogeschool](https://www.vives.be/nl/onderzoek/project/human-firewall-cybersecurity). Het project is gestart begin september 2019 en loopt tot eind augustus 2021.
+## Training met effect
 
-Volg onze activiteiten op de [THUMFI blog](./blog.md).
+Door  deel  te  nemen  aan  een  interactieve training in kleine homogene groepen reflecteert de  deelnemer  over  mogelijke  problemen. Daarboven  omvat  THUMFI  een  app  waarin realistische  scenario’s  worden  beoordeeld door  de  speler.    Een  op  maat  gemaakte aanpak  voor  de  organisatie  staat  centraal.
+
+## Duale aanpak
+
+De bewustwording van het personeel op vlak van cybersecurity wordt geboost door een positieve aanpak. De focus ligt op detectie van phishing en andere vormen van online oplichting, alsook veilig  IT  gebruik.  De  duale  aanpak  maakt  het mogelijk om  vragen te stellen aan een expert,
+en  daarbovenop  op  een  langere  termijn  op eigen tempo de nodige skills aan te scherpen.
 
 ## Contact
-> Piet Cordemans <br> Onderzoeker THUMFI <br> <a href="mailto:piet.cordemans@vives.be"> Stuur een e-mail</a> 
+
+Heeft uw bedrijf interesse in een cybersecurity awareness training? Neem contact op met:
+
+> Natalie Voet <br> Onderzoeker THUMFI <br> <a href="mailto:thumfi@vives.be"> Stuur een e-mail</a> 
 
 ![VIVES logo](./assets/vives.png)
-![DEVBIT logo](./assets/devbit.png)

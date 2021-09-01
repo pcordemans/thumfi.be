@@ -4,6 +4,8 @@ module.exports = {
     themeConfig: {
         nav: [
           { text: 'Home', link: '/' },
+          { text: 'Try THUMFI', link:'https://public.thumfi.be'},
+          { text: 'Onderzoek', link:'/onderzoek.md'},
           { text: 'Blog', link: '/blog.md' },
         { text: 'VIVES', link: 'https://www.vives.be/nl/onderzoek/business-management-smart-technologies/human-firewall-cybersecurity-thumfi' },
         ],
